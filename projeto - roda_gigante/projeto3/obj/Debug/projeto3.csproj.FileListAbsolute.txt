@@ -1,0 +1,7 @@
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\projeto3\projeto3\obj\Debug\projeto3.csproj.AssemblyReference.cache
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\projeto3\projeto3\obj\Debug\projeto3.csproj.CoreCompileInputs.cache
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\projeto3\projeto3\bin\Debug\projeto3.exe.config
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\projeto3\projeto3\bin\Debug\projeto3.exe
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\projeto3\projeto3\bin\Debug\projeto3.pdb
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\projeto3\projeto3\obj\Debug\projeto3.exe
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\projeto3\projeto3\obj\Debug\projeto3.pdb

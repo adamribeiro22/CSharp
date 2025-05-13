@@ -1,0 +1,6 @@
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\PharmaTech.PharmaAdmin\PharmaTech.PharmaAdmin.Domain\bin\Debug\PharmaTech.PharmaAdmin.Domain.dll
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\PharmaTech.PharmaAdmin\PharmaTech.PharmaAdmin.Domain\bin\Debug\PharmaTech.PharmaAdmin.Domain.pdb
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\PharmaTech.PharmaAdmin\PharmaTech.PharmaAdmin.Domain\obj\Debug\PharmaTech.PharmaAdmin.Domain.csproj.AssemblyReference.cache
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\PharmaTech.PharmaAdmin\PharmaTech.PharmaAdmin.Domain\obj\Debug\PharmaTech.PharmaAdmin.Domain.csproj.CoreCompileInputs.cache
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\PharmaTech.PharmaAdmin\PharmaTech.PharmaAdmin.Domain\obj\Debug\PharmaTech.PharmaAdmin.Domain.dll
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\PharmaTech.PharmaAdmin\PharmaTech.PharmaAdmin.Domain\obj\Debug\PharmaTech.PharmaAdmin.Domain.pdb

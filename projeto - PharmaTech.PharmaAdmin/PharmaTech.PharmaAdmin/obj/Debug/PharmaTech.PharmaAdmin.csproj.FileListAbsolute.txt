@@ -1,0 +1,10 @@
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\PharmaTech.PharmaAdmin\PharmaTech.PharmaAdmin\bin\Debug\PharmaTech.PharmaAdmin.exe.config
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\PharmaTech.PharmaAdmin\PharmaTech.PharmaAdmin\bin\Debug\PharmaTech.PharmaAdmin.exe
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\PharmaTech.PharmaAdmin\PharmaTech.PharmaAdmin\bin\Debug\PharmaTech.PharmaAdmin.pdb
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\PharmaTech.PharmaAdmin\PharmaTech.PharmaAdmin\bin\Debug\PharmaTech.PharmaAdmin.Domain.dll
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\PharmaTech.PharmaAdmin\PharmaTech.PharmaAdmin\bin\Debug\PharmaTech.PharmaAdmin.Domain.pdb
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\PharmaTech.PharmaAdmin\PharmaTech.PharmaAdmin\obj\Debug\PharmaTech.PharmaAdmin.csproj.AssemblyReference.cache
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\PharmaTech.PharmaAdmin\PharmaTech.PharmaAdmin\obj\Debug\PharmaTech.PharmaAdmin.csproj.CoreCompileInputs.cache
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\PharmaTech.PharmaAdmin\PharmaTech.PharmaAdmin\obj\Debug\PharmaTe.790F80C0.Up2Date
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\PharmaTech.PharmaAdmin\PharmaTech.PharmaAdmin\obj\Debug\PharmaTech.PharmaAdmin.exe
+C:\Users\adamv\OneDrive\Área de Trabalho\C#\PharmaTech.PharmaAdmin\PharmaTech.PharmaAdmin\obj\Debug\PharmaTech.PharmaAdmin.pdb
